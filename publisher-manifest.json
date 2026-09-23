@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e6a0044eac200a303f4a2c72",
+  "owner": "ngunmmqadk",
+  "repo": "page-79a246c7c820442d3e2feabc",
+  "title": "机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "79a246c7c820442d3e2feabc",
+      "a": "机场",
+      "b": "2027官方最新地址导航",
+      "entity": "机场",
+      "brand": "机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "53748fd04d28cb94c25826625e0ff8b5c52cbbd611876329572d3715007f87c7",
+      "content": {
+        "primary_entity": "机场",
+        "keyword1": "机场",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，完成订阅即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_DESCRIPTION": "，围绕设备数量、月流量与线路等级对比三档套餐。基础版适合手机与平板轻度使用，旗舰版增加 IPLC 专线与流媒体解锁，团队版提供 20 台设备与高带宽节点，可按年付节省费用。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度快速判断。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合日常浏览，团队版 1000GB 适合多设备共用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 5 台、团队版 20 台，按家庭或团队人数选择。",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按周期付费用",
+          "AI_GUIDE_INTRO": "先看需求，再看适配，最后完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "机场提供多档加速套餐，覆盖基础浏览到团队协作场景。选择时先确认日常设备数量与月流量，再对比线路类型与流媒体需求，最后按客户端文档导入订阅即可。",
+          "AI_HERO_SUBTITLE": "多档加速套餐满足不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "套餐支持年付",
+          "AI_HIGHLIGHT_3": "专线与解锁优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐包含的设备数量、流量与线路类型，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "依照客户端文档添加订阅链接，完成配置后连接节点即可使用。",
+          "AI_STEP_TITLE_1": "确定套餐需求",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅链接",
+          "AI_VISUAL_TITLE": "机场加速套餐",
+          "AI_FAQ_ANSWER_1": "按设备数量与月流量估算。1 至 3 台设备、每月 100GB 以内选基础版；5 台设备、看流媒体或玩游戏选旗舰版；20 台设备或团队共用选团队版。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。设备更多时选旗舰版或团队版更合适。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更省。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，适合确定长期使用的场景。",
+          "AI_FAQ_ANSWER_4": "在客户端中新建订阅，粘贴账号内的订阅链接后更新节点即可。不同客户端导入方式略有差异，可参照对应客户端的配置文档操作。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线并针对游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由，对延迟和带宽要求高的场景可优先考虑这两档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "按月付还是按年付更划算？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在速度上有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "luyouhu.cn",
+    "host": "luyouhu.cn"
+  },
+  "file_hashes": {
+    "index.html": "8d014339351028363a037d064622a26fb5e4053dff16594cef8e1e5d3b543d45",
+    "sitemap.xml": "27f600e724bfa03733dc54fbb7ab9e6c4898b66ef5cdfdc91179f0cd800e914d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a3feb84cfc4419e2f0a21d9da55080695014e766b83a82af6f5a387ddf34a73b",
+    "robots.txt": "9db5d76c21327c2b3a9457eb7adc81bb614a5ab47d1a27a82026d7567b63d1af",
+    "05157c4ec384f3f0a8705fed63c74b7c.txt": "7f92e7cda876a45c26a6416dabb0268036e251127be71810be6318e3bb5629a4"
+  },
+  "revision": "14b145e8d24a753194cfaa3fb8163c417d97753599080f9da6b95350cec16d9d"
+}
